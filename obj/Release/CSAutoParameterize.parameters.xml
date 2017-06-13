@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DMSDATABASE-Web.config Connection String" description="DMSDATABASE Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:ahrasel.database.windows.net,1433;Initial Catalog=DiagnosticManagementSystem;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="G:\\My\ Mission\\ASP\.Net\\Projects\\DiagnosticManagementSystem\\DiagnosticManagementSystem\\DiagnosticManagementSystem\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DMSDATABASE']/@connectionString" />
+  </parameter>
+</parameters>

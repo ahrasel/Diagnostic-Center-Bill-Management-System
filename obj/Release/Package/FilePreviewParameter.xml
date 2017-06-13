@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="dmsbill" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^G:\\My\ Mission\\ASP\.Net\\Projects\\DiagnosticManagementSystem\\DiagnosticManagementSystem\\DiagnosticManagementSystem\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^G:\\My\ Mission\\ASP\.Net\\Projects\\DiagnosticManagementSystem\\DiagnosticManagementSystem\\DiagnosticManagementSystem\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DMSDATABASE-Web.config Connection String" description="" value="Server=DESKTOP-3JCV0QN;Database=DiagnosticManagementSystem;Trusted_Connection=True;" tags="">
+    <parameterEntry kind="XmlFile" scope="G:\\My\ Mission\\ASP\.Net\\Projects\\DiagnosticManagementSystem\\DiagnosticManagementSystem\\DiagnosticManagementSystem\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DMSDATABASE']/@connectionString" />
+  </parameter>
+</parameters>

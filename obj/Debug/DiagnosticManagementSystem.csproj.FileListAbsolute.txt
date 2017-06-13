@@ -1,0 +1,215 @@
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\ApplicationInsights.config
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\csc.exe
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\vbc.exe
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.dll.config
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.pdb
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.dll
+C:\Users\Web App Develop.Net\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.pdb
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\ApplicationInsights.config
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\csc.exe
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\vbc.exe
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.dll.config
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.pdb
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.dll
+C:\Users\Rasel\Desktop\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.pdb
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\ApplicationInsights.config
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\csc.exe
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\vbc.exe
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\VBCSCompiler.exe
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.dll.config
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.pdb
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Web.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.ApplicationInsights.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.ReportViewer.WebForms.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Web.xml
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.ApplicationInsights.xml
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.csprojResolveAssemblyReference.cache
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\RdlCompile.cache
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\RdlCompile.compiled
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.pdb
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.CSharp.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.ComponentModel.DataAnnotations.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Configuration.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Data.DataSetExtensions.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Data.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Drawing.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.EnterpriseServices.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.ApplicationServices.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.DynamicData.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.Entity.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.Extensions.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.Services.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Xml.dll
+G:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Xml.Linq.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\ApplicationInsights.config
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\csc.exe
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\vbc.exe
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\VBCSCompiler.exe
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.dll.config
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.pdb
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Web.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.ApplicationInsights.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.CSharp.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.ComponentModel.DataAnnotations.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Configuration.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Data.DataSetExtensions.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Data.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Drawing.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.EnterpriseServices.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.ApplicationServices.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.DynamicData.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.Entity.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.Extensions.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.Services.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Xml.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Xml.Linq.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Web.xml
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.ApplicationInsights.xml
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.dll
+H:\My Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.pdb
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\ApplicationInsights.config
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\csc.exe
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\vbc.exe
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\VBCSCompiler.exe
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.dll.config
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\DiagnosticManagementSystem.pdb
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Web.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.ApplicationInsights.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.CSharp.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.ComponentModel.DataAnnotations.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Configuration.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Data.DataSetExtensions.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Data.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Drawing.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.EnterpriseServices.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.ApplicationServices.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.DynamicData.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.Entity.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.Extensions.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Web.Services.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Xml.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\System.Xml.Linq.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.Web.xml
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.ApplicationInsights.xml
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.csprojResolveAssemblyReference.cache
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.dll
+H:\Mission\ASP.Net\Projects\DiagnosticManagementSystem\DiagnosticManagementSystem\DiagnosticManagementSystem\obj\Debug\DiagnosticManagementSystem.pdb
